@@ -1,0 +1,17 @@
+.button__fancy{
+    box-shadow: 0 8px 16px 0 rgba(105, 105, 105, 0.2), 0 6px 20px 0 rgba(99, 99, 99, 0.19);
+    background-color: #3ce241;
+    color: black;
+    font-weight: bold;
+    border-radius: 15px;
+    height: 40px;
+    padding: 10px;
+    border: 2px solid #4CAF50;
+}
+
+.input__fancy{
+    height: 40px;
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 20px;
+}
